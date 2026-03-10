@@ -7,4 +7,4 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=matheusmarcelo01&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMatheusMarcelo1&label=math&icon=github&color=%231aa179&message=&style=flat&tz=UTC)
+![Profile views](https://komarev.com/ghpvc/?username=MatheusMarcelo1&color=blue)
