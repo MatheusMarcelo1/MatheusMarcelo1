@@ -5,6 +5,6 @@
 ## 💻Studying:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,react,nodejs,mysql,vercel,postgres,bash,linux)](https://skillicons.dev)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarcelo01&theme=tokyonight&hide_border=true&custom_title=Most%20%used%20%languages)
 
 [![](https://visitcount.itsvg.in/api?id=matheusmarcelo01&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMatheusMarcelo1&label=math&icon=github&color=%231aa179&message=&style=flat&tz=UTC)
