@@ -11,4 +11,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=MatheusMarcelo1&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarcelo1&layout=compact&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=MatheusMarcelo1)
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31thjk4tqgextk6zyb7xe5I6kvm)](https://spotify-github-profile.vercel.app/api/view?uid=31thjk4tqgextk6zyb7xe5I6kvm)
