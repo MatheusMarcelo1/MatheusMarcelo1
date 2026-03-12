@@ -7,4 +7,9 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=matheusmarcelo01&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
-![Profile views](https://komarev.com/ghpvc/?username=MatheusMarcelo1&color=blue)
+![Visitantes](https://komarev.com/ghpvc/?username=MatheusMarcelo1&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMarcelo1&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MatheusMarcelo1&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarcelo1&layout=compact&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=MatheusMarcelo1)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)
