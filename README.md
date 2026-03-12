@@ -11,5 +11,4 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)](https://spotify-github-profile.vercel.app)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MatheusMarcelo1&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarcelo1&layout=compact&theme=tokyonight)
 
