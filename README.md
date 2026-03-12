@@ -9,5 +9,6 @@
 [![](https://visitcount.itsvg.in/api?id=matheusmarcelo01&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 ![Visitantes](https://komarev.com/ghpvc/?username=MatheusMarcelo1&color=blue)
 ![Spotify](https://img.shields.io/badge/Spotify-Listening-green?style=flat-square&logo=spotify)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=MatheusMarcelo1&theme=tokyonight)
 
