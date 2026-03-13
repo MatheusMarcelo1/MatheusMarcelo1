@@ -8,6 +8,8 @@
 
 <!-- 🔥 Cores quentes -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" /></a>
@@ -20,8 +22,6 @@
 <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 <br>
 <!-- ❄️ Cores frias / escuras -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
