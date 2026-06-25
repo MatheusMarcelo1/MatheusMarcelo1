@@ -36,7 +36,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=matheusmarcelo01&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 ![Visitantes](https://komarev.com/ghpvc/?username=MatheusMarcelo1&color=blue)
-[![Spotify](https://img.shields.io/badge/Spotify-Nutshell%20Alice%20in%20Chains-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-pt/track/2JuasWPUodaUxf5nwNpciQ)
+[![Spotify](https://img.shields.io/badge/Spotify-Ouvertüre%20Nr.%203%20D--Dur%20BWV%201068-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-pt/track/6pt8oGfiwgidz03nGw1zTb?si=8e20fa7538fb48ef)
 [![DEV Community](https://img.shields.io/badge/DEV-@matheusmarcelo01-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/matheusmarcelo01)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MatheusMarcelo1&theme=tokyonight)
